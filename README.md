@@ -15,13 +15,13 @@ Create a mobile application that:
 ## 📸 Screenshots
 
 ### 🔍 Search City Screen
-![Search City](screenshots/search_city_screen.png)
+![Search City](screenshot/search_city_screen.png)
 
 ### 🌙 Night Mode (Search Screen)
-![Search Night Mode](screenshots/search_screen_night_mode.png)
+![Search Night Mode](screenshot/search_screen_night_mode.png)
 
 ### 🕓 Search History
-![Search History](screenshots/History_screen.png)
+![Search History](screenshot/History_screen.png)
 
 ## ✅ Features
 

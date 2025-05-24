@@ -15,7 +15,7 @@ Create a mobile application that:
 ## 📸 Screenshots
 
 ### 🔍 Search City Screen
-![Search City](/search_city_screen.png)
+🔗 [Search City Screen](search_city_screen.png)
 
 ### 🌙 Night Mode (Search Screen)
 ![Search Night Mode](/search_screen_night_mode.png)

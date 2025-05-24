@@ -18,10 +18,10 @@ Create a mobile application that:
 🔗 [Search City Screen](search_city_screen.png)
 
 ### 🌙 Night Mode (Search Screen)
-![Search Night Mode](/search_screen_night_mode.png)
+🔗 [Search Night Mode](search_screen_night_mode.png)
 
 ### 🕓 Search History
-![Search History](History_screen.png)
+🔗 [Search History](History_screen.png)
 
 ## ✅ Features
 

@@ -15,10 +15,10 @@ Create a mobile application that:
 ## 📸 Screenshots
 
 ### 🔍 Search City Screen
-![Search City](search_city_screen.png)
+![Search City](/search_city_screen.png)
 
 ### 🌙 Night Mode (Search Screen)
-![Search Night Mode](search_screen_night_mode.png)
+![Search Night Mode](/search_screen_night_mode.png)
 
 ### 🕓 Search History
 ![Search History](History_screen.png)
